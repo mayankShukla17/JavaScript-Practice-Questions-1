@@ -1,0 +1,66 @@
+.label{
+    font-size: 25px;
+}
+
+body {
+    background-color:black;
+    color: white;
+}
+.searchBox{
+    text-align: center;
+}
+input {
+    background-color: rgb(93, 255, 255);
+    color: rgb(5, 36, 35);
+    border: 2px;
+    padding: 5px;
+    text-transform: uppercase;
+    height: inherit;
+    width: inherit;
+}
+
+.myButton {
+    background-color: tomato;
+    color: white;
+    border: 0;
+    padding: 5px;
+    text-transform: uppercase;
+    height: inherit;
+    width: inherit;
+}
+.headZodiac{
+    width: 100%;
+    padding-left: 0px;
+    padding: 20px;
+    background-color: rgb(85, 0, 67);
+    color: #ff368d;
+    margin-left:20px;
+}
+.details{
+    color: tomato;
+    font-weight: bold;
+    padding: 20px;
+    margin-left: 30px;
+}
+.yourSign{
+    padding-left: 10px;
+}
+.zodiacSign{
+    color: #a0ffea;
+}
+.exampleText{
+    color: rgb(3, 148, 3);
+    font-weight: bold;
+}
+.example{
+    color: rgb(3, 174, 12);
+    font-weight: normal;
+}
+.textall{
+    padding-left: 5px;
+    margin-left: 0;
+}
+.errorText{
+    color: red;
+    padding-left: 40px;
+}
